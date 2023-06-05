@@ -11,4 +11,4 @@
 ##### After you have downloaded the repo,simply navigate to the folder containing the NeonZ folder.
 ##### Open the parent folder of NeonZ on terminal and type the command:
     sudo mv NeonZ /usr/share/themes/
-##### Once you type your password ,you will be able to select the theme from the relevant menu.
+##### Once you type your password, you will be able to select the theme from the relevant menu.
